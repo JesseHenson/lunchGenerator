@@ -19,7 +19,6 @@ export const lunchList = [
   { name: "Tokyo Joes" },
   { name: "Cuba Cuba" },
   { name: "The Greek Greek" },
-  { name: "Ana's Mexican Grill" },
 ]
 export const peopleList = [
   { name: "Jesse" },
